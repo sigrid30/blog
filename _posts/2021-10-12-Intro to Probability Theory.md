@@ -1,6 +1,6 @@
 ---
 title: Intro to Probability Theory
-date: 2020-10-10 10:10:10 +0400
+date: 2020-10-12 18:40:10 +0400
 tags: [statistics]     # TAG names should always be lowercase
 math: true
 ---
