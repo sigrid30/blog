@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> I am a senior Computer Science student at University of Strasbourg and Azerbaijan State Oil Academy. 
